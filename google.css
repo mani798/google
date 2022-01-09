@@ -1,0 +1,27 @@
+.image1{
+    width: 15%;
+    margin-top: -5%;
+}
+li{
+    display: inline;
+}
+.li.icons{
+    display: inline-block;
+    padding: 20px;
+    background-color:white;
+}
+.heading{
+    padding: 50px;
+    margin-top: -5%;
+    font-size: 20px;
+   
+    font-family: sans-serif;
+}
+.heading.grey{
+    padding: 50px;
+   
+    font-size: 20px;
+    
+    font-family: sans-serif;
+    color: grey;
+}
